@@ -1,6 +1,7 @@
 # Exercise-05a-Movement
 
 
+
 ## Implementation
 
 ## References
@@ -8,4 +9,6 @@
 ## Future Development
 
 ## Created by
-Nathan Mishler
+
+Scott Trout
+
